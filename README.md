@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Vishal Nagamalla</h1>
-<h3 align="center">Computer Science || Engineering || Robotics</h3>
+<h3 align="center">Computer Science || AI/ML || Engineering || Robotics</h3>
 
-- 🌱 I’m currently learning **Data Science, AI/ML**
+- 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
 - 💬 Check out my Website at [https://vishal-nagamalla.github.io/Vishal-Website/](https://vishal-nagamalla.github.io/Vishal-Website/)
 
