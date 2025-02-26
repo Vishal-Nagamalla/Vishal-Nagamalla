@@ -7,7 +7,7 @@
 
 - 👨‍💻 Available Unity Projects at [https://vishaln.itch.io/](https://vishaln.itch.io/)
 
-- 📫 Reach me at **Vishal.Nagamalla@gmail.com**
+- 📫 Reach me at **Vishal.Nagamalla@gmail.com || vn218@scarletmail.rutgers.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
