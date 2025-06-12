@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
-- 💬 Check out my Website at [https://vishal-nagamalla.github.io/Vishal-Website/](https://vishal-nagamalla.github.io/Vishal-Website/)
+- 💬 Check out my Website at [https://vishal-nagamalla.github.io/](https://vishal-nagamalla.github.io/Vishal-Website/)
 
 - 👨‍💻 Available Unity Projects at [https://vishaln.itch.io/](https://vishaln.itch.io/)
 
